@@ -1,6 +1,6 @@
 ### Abigail Guo（锅盖)
 
-- I’m currently learning differential privacy.
+- 🔭 I’m currently learning differential privacy.
 <!--
 **AbigailGuo/abigailguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
